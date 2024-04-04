@@ -1,2 +1,2 @@
-# navigation2_tutorials
-Tutorial code referenced in https://navigation.ros.org/
+# Mapviz for visualization of robot's path 
+![Mapviz view of PIT](screen.png.png)
